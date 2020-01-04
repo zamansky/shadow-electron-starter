@@ -1,4 +1,4 @@
-(ns app.renderer.core
+(ns renderer.renderer
   (:require [reagent.core :as reagent :refer [atom]]
             [clojure.string :as string :refer [split-lines]]))
 
